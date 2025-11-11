@@ -1,1 +1,2 @@
 # odin-recipes
+I am currently making a website with links to a few recipes. It's my first time trying to make a complete project, and by the end I will have committed it to git and created a useable recipe site with html.
